@@ -3,7 +3,6 @@ devnamespace: dev
 prometheusnamespace: prometheus
 grafananamespace: grafana
 
-
 testingservice: testing-app-service
 jenkinsservice: jenkins-app-service
 personalservice: personal-app-service
